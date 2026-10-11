@@ -1,6 +1,6 @@
 # Daily Gacha Tracker (Windows)
 
-A local Windows desktop app that tracks whether configured game processes have been detected during the current local calendar day.
+A local Windows desktop app that tracks whether configured game processes have been detected during the current local calendar day. This app was created with AI.
 
 ## Scope
 
